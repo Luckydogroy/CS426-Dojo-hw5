@@ -12,7 +12,7 @@ description:
 modules:
 - id: return-oriented-programming
   challenges:
-  - id: level-1.1
+  - id: level-1-1
     name: ROP1
-  - id: level-2.0
+  - id: level-2-0
     name: ROP2
