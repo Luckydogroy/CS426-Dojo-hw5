@@ -30,9 +30,9 @@ modules:
 - id: program-exploitation
   challenges:
   -id: level-1-0
-    name: level 1.0
+    name: level1.0
   -id: level-1-1
-    name: level 1.1
+    name: level1.1
 
 - id: memory-errors
   challenges:
