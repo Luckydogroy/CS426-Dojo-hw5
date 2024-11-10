@@ -28,8 +28,6 @@ modules:
     name: level 2.0
 - id: program-exploitation
   challenges:
-  - id: level-1-0
-    name: level 1.0
   - id: level-1-1
     name: level 1.1
 
@@ -39,8 +37,6 @@ modules:
     name: level 1.1
   - id: level-2-0
     name: level 2.0
-  - id: level-2-1
-    name: level 2.1
 
 - id: web-security
   challenges:
